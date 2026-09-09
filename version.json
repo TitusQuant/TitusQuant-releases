@@ -1,6 +1,6 @@
 {
-  "minimum_version": "0.0.2",
-  "latest_version": "0.0.2",
+  "minimum_version": "0.0.3",
+  "latest_version": "0.0.3",
   "downloads": {
     "mac": "https://github.com/TitusQuant/TitusQuant-releases/releases/latest/download/TitusQuant.dmg",
     "windows": "https://github.com/TitusQuant/TitusQuant-releases/releases/latest/download/TitusQuantSetup.exe",
